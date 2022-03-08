@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.AssemblyInfo.cs
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project1-School\bin\Debug\net5.0\Project1-School.exe
+C:\Users\USER\source\repos\Project1-School\bin\Debug\net5.0\Project1-School.deps.json
+C:\Users\USER\source\repos\Project1-School\bin\Debug\net5.0\Project1-School.runtimeconfig.json
+C:\Users\USER\source\repos\Project1-School\bin\Debug\net5.0\Project1-School.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Project1-School\bin\Debug\net5.0\Project1-School.dll
+C:\Users\USER\source\repos\Project1-School\bin\Debug\net5.0\ref\Project1-School.dll
+C:\Users\USER\source\repos\Project1-School\bin\Debug\net5.0\Project1-School.pdb
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.dll
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\ref\Project1-School.dll
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.pdb
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.genruntimeconfig.cache
+C:\Users\USER\source\repos\Project1-School\obj\Debug\net5.0\Project1-School.csproj.AssemblyReference.cache
